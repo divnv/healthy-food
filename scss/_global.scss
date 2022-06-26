@@ -1,0 +1,35 @@
+//  ? == Global Styles ==
+
+h1 {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: $Black;
+}
+
+h2 {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 1.25;
+	color: $Black;
+}
+
+h3 {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: $Black;
+}
+
+h4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.2;
+	letter-spacing: 0.2em;
+	color: $PrimaryLight;
+	text-transform: uppercase;
+}
